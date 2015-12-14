@@ -1,0 +1,166 @@
+2014-08-06 10:41:29,302-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:29] "POST /customer/reset_password HTTP/1.1" 200 -
+2014-08-06 10:41:29,365-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:29] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2014-08-06 10:41:29,371-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:29] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-08-06 10:41:29,385-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:29] "GET /static/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 -
+2014-08-06 10:41:29,400-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:29] "GET /static/js/Validform_v5.3.1.js HTTP/1.1" 304 -
+2014-08-06 10:41:29,407-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:29] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2014-08-06 10:41:29,414-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:29] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+2014-08-06 10:41:30,063-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:30] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 10:41:47,367-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:47] "GET /static/css/images/right.png HTTP/1.1" 404 -
+2014-08-06 10:41:49,006-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:49] "POST /customer/reset_password HTTP/1.1" 200 -
+2014-08-06 10:41:49,135-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 10:41:49] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 11:30:27,367-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 11:30:51,647-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 11:30:51,648-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:31:05,497-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 11:31:05,983-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:43:05,305-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:43:05] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 11:43:10,634-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:43:10] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 11:43:21,082-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:43:21] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 11:43:49,937-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 11:49:11,920-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 11:49:11,938-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:50:59,561-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 11:50:59,562-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:51:57,528-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:51:57] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 11:53:53,874-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 11:53:54,351-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:53:57,792-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:53:57] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 11:54:09,401-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 11:54:09,403-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:55:21,408-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 11:55:21,410-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:55:26,157-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:55:26] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 11:55:31,967-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:55:31] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 11:55:52,200-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 11:55:52,663-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:55:56,928-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 11:55:57,069-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:56:41,051-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 11:56:41,052-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:56:53,273-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:56:53] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 11:57:24,665-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:57:24] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 11:57:38,490-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 11:57:38,947-werkzeug-INFO- * Restarting with reloader
+2014-08-06 11:57:46,696-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:57:46] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 11:57:56,582-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:57:56] "GET /customer/reset_password HTTP/1.1" 400 -
+2014-08-06 11:58:04,970-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:58:04] "GET /customer/reset_password/sdf HTTP/1.1" 400 -
+2014-08-06 11:58:11,688-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:58:11] "GET /customer/reset_password/sdf HTTP/1.1" 400 -
+2014-08-06 11:58:13,282-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:58:13] "GET /customer/reset_password/sdf HTTP/1.1" 400 -
+2014-08-06 11:58:15,357-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:58:15] "GET /customer/reset_password/sdf HTTP/1.1" 400 -
+2014-08-06 11:58:16,654-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:58:16] "GET /customer/reset_password/sdf HTTP/1.1" 400 -
+2014-08-06 11:58:31,154-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 11:58:31] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 12:58:39,571-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 12:58:39] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 12:58:50,778-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 12:58:50] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 12:59:47,542-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 12:59:47] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 13:06:18,602-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:06:19,216-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:06:27,410-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 13:06:27,410-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:08:40,032-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:08:40] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 400 -
+2014-08-06 13:09:06,115-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:09:06,641-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:09:08,760-root-ERROR------------7ba1c959062d406b96ff445eae4413b7---
+2014-08-06 13:09:08,811-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:09:08] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 13:10:47,776-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:10:47,937-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:10:55,142-root-ERROR------------None---
+2014-08-06 13:10:55,167-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:10:55] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 13:11:17,627-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:11:17,921-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:11:20,969-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:11:20] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 13:11:21,059-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:11:21] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-08-06 13:11:21,112-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:11:21] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2014-08-06 13:11:21,200-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:11:21] "GET /static/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 -
+2014-08-06 13:11:22,533-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:11:22] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+2014-08-06 13:11:22,542-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:11:22] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2014-08-06 13:11:22,549-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:11:22] "GET /static/js/Validform_v5.3.1.js HTTP/1.1" 304 -
+2014-08-06 13:11:34,628-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:11:34,762-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:12:00,661-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:12:00,815-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:12:31,486-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:12:31,844-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:12:38,266-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:12:38,410-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:13:00,680-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:13:00,851-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:13:38,256-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:13:38,532-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:14:04,953-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 13:14:04,953-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:14:13,082-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:13] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 13:14:13,138-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:13] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-08-06 13:14:13,144-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:13] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2014-08-06 13:14:13,170-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:13] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+2014-08-06 13:14:13,178-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:13] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2014-08-06 13:14:13,187-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:13] "GET /static/js/Validform_v5.3.1.js HTTP/1.1" 304 -
+2014-08-06 13:14:13,191-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:13] "GET /static/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 -
+2014-08-06 13:14:19,114-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:19] "GET /static/css/images/right.png HTTP/1.1" 404 -
+2014-08-06 13:14:21,348-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:21] "POST /customer/reset_password HTTP/1.1" 200 -
+2014-08-06 13:14:21,516-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:14:21] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 13:15:39,749-werkzeug-INFO- * Detected change in 'C:\\ZZ_Disc_D\\Projects\\Home-Cloud-Server\\trunk\\Code\\SuperboxServer\\webapp\\webUtils\\..\\..\\src\\DB\\SBDB.py', reloading
+2014-08-06 13:15:40,066-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:16:06,276-werkzeug-INFO- * Detected change in 'C:\\ZZ_Disc_D\\Projects\\Home-Cloud-Server\\trunk\\Code\\SuperboxServer\\webapp\\webUtils\\..\\..\\src\\DB\\SBDB.py', reloading
+2014-08-06 13:16:06,453-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:17:39,051-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 13:17:39,052-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:17:47,263-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:17:47] "GET /static/css/images/right.png HTTP/1.1" 404 -
+2014-08-06 13:17:49,947-root-INFO-code_uuid:None, password:pbkdf2:sha1:1000$7AgsitsQ$6136b3087949ec237518d19bfc8c8ae6d59dc178
+2014-08-06 13:17:50,052-root-INFO-return False because require is None
+2014-08-06 13:17:50,082-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:17:50] "POST /customer/reset_password HTTP/1.1" 200 -
+2014-08-06 13:17:50,266-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:17:50] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 13:20:04,259-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:20:04,411-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:20:26,427-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:20:26] "GET /static/css/images/right.png HTTP/1.1" 404 -
+2014-08-06 13:20:27,438-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:20:27] "POST /customer/reset_password HTTP/1.1" 400 -
+2014-08-06 13:21:16,134-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-06 13:21:16,134-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:21:19,045-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:21:19] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 13:22:43,009-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:43] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 13:22:43,056-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:43] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-08-06 13:22:43,062-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:43] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2014-08-06 13:22:43,072-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:43] "GET /static/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 -
+2014-08-06 13:22:43,625-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:43] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+2014-08-06 13:22:43,637-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:43] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2014-08-06 13:22:43,645-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:43] "GET /static/js/Validform_v5.3.1.js HTTP/1.1" 304 -
+2014-08-06 13:22:46,466-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:46] "GET /static/css/images/right.png HTTP/1.1" 404 -
+2014-08-06 13:22:48,463-root-INFO-code_uuid:7ba1c959062d406b96ff445eae4413b7, password:pbkdf2:sha1:1000$bNhJ71ln$cb2bf211c0bba0d68d10abba78224bb549d4fc72
+2014-08-06 13:22:48,835-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:48] "POST /customer/reset_password HTTP/1.1" 200 -
+2014-08-06 13:22:49,013-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:22:49] "GET /favicon.ico HTTP/1.1" 404 -
+2014-08-06 13:23:00,006-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:23:00] "GET /customer/reset_password/7ba1c959062d406b96ff445eae4413b7 HTTP/1.1" 200 -
+2014-08-06 13:23:00,022-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:23:00] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-08-06 13:23:00,029-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:23:00] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2014-08-06 13:23:00,043-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:23:00] "GET /static/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 -
+2014-08-06 13:23:00,056-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:23:00] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2014-08-06 13:23:00,072-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:23:00] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+2014-08-06 13:23:00,079-werkzeug-INFO-127.0.0.1 - - [06/Aug/2014 13:23:00] "GET /static/js/Validform_v5.3.1.js HTTP/1.1" 304 -
+2014-08-06 13:41:33,408-werkzeug-INFO- * Detected change in 'hello.py', reloading
+2014-08-06 13:41:35,986-werkzeug-INFO- * Restarting with reloader
+2014-08-06 13:41:56,507-werkzeug-INFO- * Detected change in 'C:\\ZZ_Disc_D\\Projects\\Home-Cloud-Server\\trunk\\Code\\SuperboxServer\\webapp\\webUtils\\webUtil.py', reloading
+2014-08-06 13:41:56,894-werkzeug-INFO- * Restarting with reloader
+2014-08-07 14:18:32,740-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-07 14:18:32,790-werkzeug-INFO- * Restarting with reloader
+2014-08-07 14:18:55,266-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:18:55] "GET /customer/known HTTP/1.1" 500 -
+2014-08-07 14:18:55,384-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:18:55] "GET /customer/known?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2014-08-07 14:18:55,457-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:18:55] "GET /customer/known?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2014-08-07 14:18:55,517-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:18:55] "GET /customer/known?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2014-08-07 14:18:55,676-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:18:55] "GET /customer/known?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2014-08-07 14:18:55,687-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:18:55] "GET /customer/known?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+2014-08-07 14:19:19,210-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:19:19] "GET /customer/known?__debugger__=yes&cmd=source&frm=57011888&s=y2QqCxfoDBMnnsjK11PV HTTP/1.1" 200 -
+2014-08-07 14:20:34,901-werkzeug-INFO- * Running on http://127.0.0.1:5000/
+2014-08-07 14:20:34,901-werkzeug-INFO- * Restarting with reloader
+2014-08-07 14:20:37,711-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:20:37] "GET /customer/known HTTP/1.1" 200 -
+2014-08-07 14:20:37,786-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:20:37] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2014-08-07 14:20:37,825-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:20:37] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-08-07 14:20:37,905-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:20:37] "GET /static/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 200 -
+2014-08-07 14:20:37,927-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:20:37] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+2014-08-07 14:20:37,990-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:20:37] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+2014-08-07 14:20:38,039-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:20:38] "GET /static/js/Validform_v5.3.1.js HTTP/1.1" 200 -
+2014-08-07 14:21:58,507-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:21:58] "GET /customer/known HTTP/1.1" 200 -
+2014-08-07 14:21:58,523-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:21:58] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-08-07 14:21:58,530-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:21:58] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+2014-08-07 14:21:58,542-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:21:58] "GET /static/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 304 -
+2014-08-07 14:21:58,552-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:21:58] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+2014-08-07 14:21:58,561-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:21:58] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+2014-08-07 14:21:58,566-werkzeug-INFO-127.0.0.1 - - [07/Aug/2014 14:21:58] "GET /static/js/Validform_v5.3.1.js HTTP/1.1" 304 -

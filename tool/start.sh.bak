@@ -1,0 +1,7 @@
+#!/bin/sh
+
+killall -9 "python main.py"
+
+cd ~/test_server/src/src
+source ../webapp/venv/bin/activate
+nohup python main.py

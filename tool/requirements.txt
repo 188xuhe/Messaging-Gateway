@@ -1,0 +1,14 @@
+sudo apt-get install python2.7-dev -y
+sudo apt-get install libffi-dev -y
+sudo apt-get install libssl-dev build-essential zlibc zlib-bin libidn11-dev libidn11 -y
+sudo apt-get install python-mysqldb -y
+sudo apt-get install libmysqld-dev -y
+
+pip install werkzeug
+pip install twisted
+pip install pyOpenSSL==0.13.1
+pip install sqlalchemy==0.9.7
+pip install distribute==0.7.3
+pip install mysql-python=1.2.5
+pip install pyzmq==14.0.0
+pip install service_identity==14.0.0
